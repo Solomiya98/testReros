@@ -6,6 +6,17 @@ using System.Threading.Tasks;
 
 namespace test1234
 {
+    class Car
+    {
+        public int speed;
+        public string name;
+
+        public void func()
+        {
+
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
